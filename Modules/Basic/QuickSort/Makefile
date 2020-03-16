@@ -1,4 +1,3 @@
-
 output: quicksort.o
 	g++ quicksort.o -o quicksort
 
